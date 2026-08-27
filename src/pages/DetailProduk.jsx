@@ -120,13 +120,6 @@ function DetailProduk() {
             >
               Masukkan ke keranjang
             </button>
-
-            <button
-              onClick={() => beliSekarang(produk, null, jumlah)}
-              className="flex-1 border border-neutral-300 text-neutral-800 font-semibold py-3.5 rounded-xl hover:border-neutral-900 hover:bg-neutral-900 hover:text-white transition-colors"
-            >
-              Beli Sekarang
-            </button>
           </div>
         </div>
       </div>
